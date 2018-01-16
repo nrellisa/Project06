@@ -15,9 +15,9 @@ public static void main(String[] args){
  char sains;
  char math ;
  
- System.out.println("Apakah gred bagi Math [A/B/C/D/E/G]");
+ System.out.println("Apakah gred bagi Math [A/B/C/D/E/F/G]");
     sains=input.next ().charAt(0);
- System.out.println("Apakah gred bagi Sains [A/B/C/D/E/G]");
+ System.out.println("Apakah gred bagi Sains [A/B/C/D/E/F/G]");
     math=input.next().charAt(0);
 
 if (sains==math)
